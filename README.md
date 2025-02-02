@@ -1,1 +1,1 @@
-Cource on Geo grafical and enviromental modeling # geo_env
+Cource on Geographyical and Enviromental modeling # geo_env
